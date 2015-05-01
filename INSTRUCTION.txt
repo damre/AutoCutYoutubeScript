@@ -18,7 +18,7 @@ videoname0.mp4 videoname2.mp4 secondVideoName0.mp4 secondVideoName2.mp4 secondVi
 USE this line format:
 
 videolink*StartFirstCutTime EndFirstCutTime StartSecondCutTime EndSecondCutTime etc etc etc*videoname
-you can add as many section you like 
+you can add as many section to cut you like 
 
 DON'T forget the "*" symbol!
 DON'T add any spaces, commas or dots
