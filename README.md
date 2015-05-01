@@ -9,7 +9,7 @@ It reads the information about the videos to download in the file videolist.txt 
 videolist.txt example:
 
 https://www.youtube.com/watch?v=lXKv5A7IUEQ*8.50 9.20 15.00 19.00*videoName
-https://www.youtube.com/watch?v=UdeMCUDuR2A*1.00 2.00 10.00 12.15 13.10 15.*secondVideoName
+https://www.youtube.com/watch?v=UdeMCUDuR2A*1.00 2.00 10.00 12.15 13.10 15.00*secondVideoName
 
 The output of the script with this version of videolist.txt will be:
 
